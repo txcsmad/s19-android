@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+
+    <string name="map_string">Maps</string>
+    <string name="browser_string">Browser</string>
+    <string name="music_string">Music</string>
+    <string name="calc_string">Calculator</string>
+</resources>
